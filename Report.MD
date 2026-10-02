@@ -18,12 +18,10 @@ c. Which customers generate the most revenue? <br>
 d. Where are the largest operational inefficiencies occurring? <br>
 e. How much potential revenue is being lost through underutilized capacity? <br>
 f. How can management use data to improve fleet productivity and profitability? </h3> 
-
-<h3> The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.
+The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.</h3> 
 
 # Key Focus
-<h3> The analysis identified several important operational performance indicators as follows:</h3> 
-<h3> KPI Result </h3> 
+<br> The analysis identified several important operational performance indicators as follows: <br> KPI Result 
 <h3> a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
 
 # What the numbers indicate
@@ -80,11 +78,11 @@ q. Before analysis, the datasets underwent several preparation and transformatio
 11. Maintenance Records <br>
 12. Driver Monthly Metrics <br>
 13. Truck Utilization Metrics <br>
-14. Safety Incidents <br>
+14. Safety Incidents </h3>
     
 # DAX & Business Intelligence
-<h3> Custom DAX measures were developed to create reusable business metrics and support interactive dashboard analysis:
-* Anchor Metrics <br>
+<h3> Custom DAX measures were developed to create reusable business metrics and support interactive dashboard analysis:</h3>
+<h3> * Anchor Metrics <br>
 * Total Revenue <br>
 * Operating Cost <br>
 * Average Order Value <br>
@@ -112,6 +110,7 @@ All these measures allowed management to move beyond descriptive reporting and e
 
 # Dashboard Areas
 <h3> The analysis focused on;
+
 * Executive Performance <br>
 * Revenue & Profitability <br>
 * Route & Lane Analysis <br>
