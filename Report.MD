@@ -10,16 +10,16 @@ Dataset: 85K+ records
 # Executive Summary
 <h3> This repository contains my end-to-end Data Analytics Capstone Project completed as part of the TS Academy Data Analytics Certification. As the Data Analyst, I was responsible for transforming a complex logistics operations dataset into actionable business insights. The project covered the complete analytics workflow from data cleaning and transformation to data modeling, DAX development, visualization and business recommendations.</h3> 
 
-Using Power BI as the primary analytics and visualization platform, I analyzed an 85K+ row logistics dataset to identify operational bottlenecks, evaluate revenue and cost drivers, assess fleet and driver performance, and uncover areas of supply chain inefficiency. The analysis revealed a logistics operation with a 65% gross profit margin, but also highlighted significant capacity utilization, service-level, fleet productivity and driver-retention challenges that could affect overall operational performance.
+<h3> Using Power BI as the primary analytics and visualization platform, I analyzed an 85K+ row logistics dataset to identify operational bottlenecks, evaluate revenue and cost drivers, assess fleet and driver performance, and uncover areas of supply chain inefficiency. The analysis revealed a logistics operation with a 65% gross profit margin, but also highlighted significant capacity utilization, service-level, fleet productivity and driver-retention challenges that could affect overall operational performance.</h3> 
 
 # Business Challenges:
-The logistics company had access to large volumes of operational data but lacked a consolidated analytical framework for understanding its key performance drives. For this purpose, the Management needed data-driven answers to critical questions such as:
+<h3> The logistics company had access to large volumes of operational data but lacked a consolidated analytical framework for understanding its key performance drives. For this purpose, the Management needed data-driven answers to critical questions such as:
 a. Which routes generate the most revenue, and what are the associated costs by lane? <br>
 b. Which drivers are associated with higher delivery times and safety-related costs? <br>
 c. Which customers generate the most revenue? <br>
 d. Where are the largest operational inefficiencies occurring? <br>
 e. How much potential revenue is being lost through underutilized capacity? <br>
-f. How can management use data to improve fleet productivity and profitability? 
+f. How can management use data to improve fleet productivity and profitability? </h3> 
 
 The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.
 
