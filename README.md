@@ -1,5 +1,4 @@
-# Logistics Operations 
-# Analysis
+# Logistics Operations <br> Analysis
 
 ## TS Academy Data Analytics 
 ## Capstone Project
