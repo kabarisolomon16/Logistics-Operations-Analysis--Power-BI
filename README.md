@@ -1,7 +1,13 @@
 # Logistics Operations <br> Analysis
 
-## TS Academy Data Analytics 
-## Capstone Project
+## TS Academy Data Analytics <br> Capstone Project
+This Project analyzes logistics operations data patterns, trends and key operational insights.
+
+## Objectives
+Analyze logistics performance <br>
+identify operational trends <br>
+Measure key performance indicators <br>
+provide actionable insights <br>
 
 <h3> Author: Stella Kabari Solomon <br>
 Tools Used: Power BI Desktop, Microsoft Excel </h3>
