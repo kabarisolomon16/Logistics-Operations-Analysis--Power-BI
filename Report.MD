@@ -21,9 +21,8 @@ f. How can management use data to improve fleet productivity and profitability?<
 The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.</h3> 
 
 # Key Focus
-<h3> The analysis identified several important operational performance indicators as follows:
-
-KPI Result 
+<h3> The analysis identified several important operational performance indicators as follows: <br>
+KPI Result <br>
 
 a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
 
@@ -34,7 +33,7 @@ a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> 
 <h3> The project utilized multiple interconnected datasets covering different areas of the logistics operation.</h3> 
 
 # Datasets Used:
-<h3> ### Dataset Description <br>
+<h3> Dataset Description <br>
 a. Drivers Driver demographics, employment history and license information <br>
 b. Customers Customer accounts, contract types, and revenue potential <br>
 c. Trucks Fleet equipment, acquisition information, and operational status <br>
