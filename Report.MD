@@ -34,8 +34,8 @@ a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> 
 <h3> The project utilized multiple interconnected datasets covering different areas of the logistics operation.</h3> 
 
 # Datasets Used:
-### Dataset Description
-<h3> a. Drivers Driver demographics, employment history and license information <br>
+<h3> ### Dataset Description <br>
+a. Drivers Driver demographics, employment history and license information <br>
 b. Customers Customer accounts, contract types, and revenue potential <br>
 c. Trucks Fleet equipment, acquisition information, and operational status <br>
 d. Trailers Trailer inventory, types and status <br>
