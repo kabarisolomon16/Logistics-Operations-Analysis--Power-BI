@@ -10,19 +10,22 @@
 <h3> Using Power BI as the primary analytics and visualization platform, I analyzed an 85K+ row logistics dataset to identify operational bottlenecks, evaluate revenue and cost drivers, assess fleet and driver performance, and uncover areas of supply chain inefficiency. The analysis revealed a logistics operation with a 65% gross profit margin, but also highlighted significant capacity utilization, service-level, fleet productivity and driver-retention challenges that could affect overall operational performance.</h3> 
 
 # Business Challenges:
-<h3> The logistics company had access to large volumes of operational data but lacked a consolidated analytical framework for understanding its key performance drives. For this purpose, the Management needed data-driven answers to critical questions such as:</h3> 
+<h3> The logistics company had access to large volumes of operational data but lacked a consolidated analytical framework for understanding its key performance drives. For this purpose, the Management needed data-driven answers to critical questions such as:
 
-<h3> a. Which routes generate the most revenue, and what are the associated costs by lane? <br>
+a. Which routes generate the most revenue, and what are the associated costs by lane? <br>
 b. Which drivers are associated with higher delivery times and safety-related costs? <br>
 c. Which customers generate the most revenue? <br>
 d. Where are the largest operational inefficiencies occurring? <br>
 e. How much potential revenue is being lost through underutilized capacity? <br>
-f. How can management use data to improve fleet productivity and profitability? </h3> 
+f. How can management use data to improve fleet productivity and profitability?<br>
 The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.</h3> 
 
 # Key Focus
-<br> The analysis identified several important operational performance indicators as follows: <br> KPI Result 
-<h3> a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
+<h3> The analysis identified several important operational performance indicators as follows:
+
+KPI Result 
+
+a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
 
 # What the numbers indicate
 <h3> Despite a strong 65% gross profit margin, the business has substantial room to improve operational efficiency. The gap between $298.62M in realized revenue and $538M in potential capacity revenue highlights significant unused revenue potential. Also, the 56% service level performance also indicates that nearly half of deliveries were delayed, creating a potential risk to customer satisfaction and operational reliability. Furthermore, 598.79K non productive idle hours represent substantial asset time that was not contributing directly to productive operations.</h3> 
