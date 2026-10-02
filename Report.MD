@@ -34,8 +34,7 @@ a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> 
 <h3> The project utilized multiple interconnected datasets covering different areas of the logistics operation.</h3> 
 
 # Datasets Used:
-<h3> Dataset Description <br>
-a. Drivers Driver demographics, employment history and license information <br>
+<h3> a. Drivers Driver demographics, employment history and license information <br>
 b. Customers Customer accounts, contract types, and revenue potential <br>
 c. Trucks Fleet equipment, acquisition information, and operational status <br>
 d. Trailers Trailer inventory, types and status <br>
@@ -62,7 +61,8 @@ q. Before analysis, the datasets underwent several preparation and transformatio
 * Established consistent naming conventions <br>
 * Prepared datasets for relational modeling <br>
 * Created aggregated operational metrics where required <br>
-* The resulting datasets provided a clean and structured foundation for analysis, modeling, and dashboard development.</h3> 
+
+The resulting datasets provided a clean and structured foundation for analysis, modeling, and dashboard development.</h3> 
 
 # Data Modeling
 <h3> A star schema was designed to support efficient analysis and cross-filtering across the logistics ecosystem. The model consisted of central fact tables supported by multiple dimension and operational tables.
