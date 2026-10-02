@@ -2,5 +2,5 @@
 
 ## TS Academy Data Analytics Capstone Project
 
-### Author: Stella Kabari Solomon
-### Tools Used: Power BI Desktop, Microsoft Excel
+ Author: Stella Kabari Solomon <br>
+ Tools Used: Power BI Desktop, Microsoft Excel
