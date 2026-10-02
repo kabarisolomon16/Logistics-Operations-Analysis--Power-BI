@@ -23,8 +23,8 @@ f. How can management use data to improve fleet productivity and profitability? 
 
 # Key Focus
 <h3> The analysis identified several important operational performance indicators as follows:</h3> 
-<h3> KPI Result
-a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
+<h3> KPI Result </h3> 
+<h3> a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
 
 # What the numbers indicate
 <h3> Despite a strong 65% gross profit margin, the business has substantial room to improve operational efficiency. The gap between $298.62M in realized revenue and $538M in potential capacity revenue highlights significant unused revenue potential. Also, the 56% service level performance also indicates that nearly half of deliveries were delayed, creating a potential risk to customer satisfaction and operational reliability. Furthermore, 598.79K non productive idle hours represent substantial asset time that was not contributing directly to productive operations.</h3> 
@@ -125,15 +125,7 @@ All these measures allowed management to move beyond descriptive reporting and e
 * Tools & Technologies </h3> 
 
 # Tool - Purpose
-<h3> a. Power BI - Data modeling, DAX, visualization and dashboard development
-
-b. DAX - Business calculations and KPI development 
-
-c. Power Query - Data cleaning and transformation 
-
-d. Excel / CSV - Data sources and preliminary data inspection 
-
-e. Data Modeling - Relational modeling and analytical architecture </h3> 
+<h3> a. Power BI - Data modeling, DAX, visualization and dashboard development <br> b. DAX - Business calculations and KPI development  <br> c. Power Query - Data cleaning and transformation  <br> d. Excel / CSV - Data sources and preliminary data inspection  <br> e. Data Modeling - Relational modeling and analytical architecture </h3> 
 
 # Project Context
 <h3> This project was completed as the Data Analytics Capstone Project for TS Academy Certification. It provided an opportunity to apply practical data analytics techniques to a complex business scenario, including data cleaning, Data transformation, Exploratory data analysis, Data modeling, DAX development, KPI development, Business intelligence, Dashboard design, Operational analysis and Data-driven recommendations.</h3> 
