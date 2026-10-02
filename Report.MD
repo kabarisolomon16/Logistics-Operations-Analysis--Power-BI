@@ -18,6 +18,7 @@ c. Which customers generate the most revenue? <br>
 d. Where are the largest operational inefficiencies occurring? <br>
 e. How much potential revenue is being lost through underutilized capacity? <br>
 f. How can management use data to improve fleet productivity and profitability?<br>
+
 The objective was to transform fragmented operational data into structured and interactive insights that could support better business decision-making.</h3> 
 
 # Key Focus
@@ -66,7 +67,7 @@ q. Before analysis, the datasets underwent several preparation and transformatio
 # Data Modeling
 <h3> A star schema was designed to support efficient analysis and cross-filtering across the logistics ecosystem. The model consisted of central fact tables supported by multiple dimension and operational tables.
 
-## Core Tables
+# Core Tables
 <h3> 1. Trips <br>
 2. Loads <br>
 3. Delivery Events <br>
@@ -105,6 +106,7 @@ q. Before analysis, the datasets underwent several preparation and transformatio
 * Capacity utilization <br>
 * Safety performance <br>
 * Customer contribution <br>
+
 All these measures allowed management to move beyond descriptive reporting and explore the operational drivers behind business performance.</h3> 
 
 # Power BI Dashboard
