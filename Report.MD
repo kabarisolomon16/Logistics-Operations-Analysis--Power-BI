@@ -23,7 +23,8 @@ f. How can management use data to improve fleet productivity and profitability? 
 
 # Key Focus
 <h3> The analysis identified several important operational performance indicators as follows:
-## KPI Result
+KPI Result
+
 a. Realized Revenue - $298.62M  <br> b. Potential Capacity Revenue - $538M <br> c. Gross Profit Margin - 65% <br> d. SLA / On-Time Delivery Rate - 56% <br> e. Delayed Deliveries - 44% <br> f. Non-Productive Idle Hours - 598.79K <br> g. Driver Turnover Rate - 17.3% <br> h. Terminated Drivers - 26 of 150 </h3> 
 
 # What the numbers indicate
