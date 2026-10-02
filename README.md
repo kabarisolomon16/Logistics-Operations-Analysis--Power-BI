@@ -4,10 +4,9 @@
 This Project analyzes logistics operations data patterns, trends and key operational insights.
 
 ## Objectives
-Analyze logistics performance <br>
+<h3> Analyze logistics performance <br>
 identify operational trends <br>
 Measure key performance indicators <br>
-provide actionable insights <br>
+provide actionable insights <h3>
 
-<h3> Author: Stella Kabari Solomon <br>
-Tools Used: Power BI Desktop, Microsoft Excel </h3>
+### Author: Stella Kabari Solomon <br> Tools Used: Power BI Desktop, Microsoft Excel
