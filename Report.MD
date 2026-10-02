@@ -8,7 +8,7 @@ Tools Used: Power BI Desktop, Microsoft Excel <br>
 Dataset: 85K+ records
 
 # Executive Summary
-This repository contains my end-to-end Data Analytics Capstone Project completed as part of the TS Academy Data Analytics Certification. As the Data Analyst, I was responsible for transforming a complex logistics operations dataset into actionable business insights. The project covered the complete analytics workflow from data cleaning and transformation to data modeling, DAX development, visualization and business recommendations.
+<h3> This repository contains my end-to-end Data Analytics Capstone Project completed as part of the TS Academy Data Analytics Certification. As the Data Analyst, I was responsible for transforming a complex logistics operations dataset into actionable business insights. The project covered the complete analytics workflow from data cleaning and transformation to data modeling, DAX development, visualization and business recommendations.</h3> 
 
 Using Power BI as the primary analytics and visualization platform, I analyzed an 85K+ row logistics dataset to identify operational bottlenecks, evaluate revenue and cost drivers, assess fleet and driver performance, and uncover areas of supply chain inefficiency. The analysis revealed a logistics operation with a 65% gross profit margin, but also highlighted significant capacity utilization, service-level, fleet productivity and driver-retention challenges that could affect overall operational performance.
 
